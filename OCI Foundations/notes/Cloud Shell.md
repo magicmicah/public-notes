@@ -1,0 +1,1 @@
+Cloud shell is its own virtual machine that provides CLI tools. It pre-authenticates you to your OCI tenancy. 
