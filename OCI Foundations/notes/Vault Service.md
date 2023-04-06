@@ -22,4 +22,4 @@ Benefits - limited blast radius, easier to manage, doesnt generate a complete da
 
 If master key is deleted, no way to recover data. Keys are soft deleted with a seven day gap and backups should be taken often. Vault cannot be immediately deleted and it will schedule to delete 7-30 days later. 
 
-![[vault-encryption.png]]
+![[../images/vault-encryption.png]]
